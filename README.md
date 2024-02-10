@@ -16,7 +16,7 @@ Technologies used in the project:  React, NodeJS/Express, MySQL, Sequelize JS
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/xingr121/portfolio/blob/main/projectScreenshot/homepage.png" alt="screenshots" width="300" height="150">  <img src="https://github.com/xingr121/portfolio/blob/main/projectScreenshot/search.png" alt="screenshots" width="300" height="150">  <img src="https://github.com/xingr121/portfolio/blob/main/projectScreenshot/listing.png" alt="screenshots" width="300" height="150">
+<img src="https://github.com/xingr121/portfolio/blob/main/projectScreenshot/homepage.png" alt="screenshots" width="260" height="150">  <img src="https://github.com/xingr121/portfolio/blob/main/projectScreenshot/search.png" alt="screenshots" width="300" height="150">  <img src="https://github.com/xingr121/portfolio/blob/main/projectScreenshot/listing.png" alt="screenshots" width="300" height="150">
 
 <h2>Features:</h2>
 Here are some of the project's best features:
